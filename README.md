@@ -1,6 +1,7 @@
 # Runner
 
 Runner for stack middlewares based on HttpKernelInterface.
+[Stack](http://stackphp.com/)
 
 ## Example
 
