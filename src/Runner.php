@@ -2,7 +2,6 @@
 
 use Symfony\Component\HttpKernel\HttpKernelInterface;
 use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpFoundation\Response;
 use Stack\StackedHttpKernel;
 
 class Runner
