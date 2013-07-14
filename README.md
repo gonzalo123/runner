@@ -23,3 +23,4 @@ $app = (new Stack\Builder())->resolve(new MyKernel());
 ## Inspiration
 
 * [HttpKernel middlewares](https://igor.io/2013/02/02/http-kernel-middlewares.html)
+* [Stack](http://stackphp.com/)
